@@ -5,6 +5,6 @@
  */
 class AppConfig {
     version = '1.0.1';
-    team = 'Still Fantastic Four - Pavan';
+    team = 'Team DK - Fanstastic Four';
 }
 module.exports = AppConfig;
